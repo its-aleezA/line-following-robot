@@ -5,15 +5,16 @@ An Arduino-based autonomous line-following robot developed for indoor package de
 This project demonstrates the design, hardware integration, and software implementation of a low-cost indoor line-following robot. Using simple rule-based logic and modular hardware, the robot reliably tracks predefined paths while carrying small payloads across indoor environments. The design is suitable for educational purposes, prototyping, and micro-logistics automation.
 
 ## ⚙️ Features
-Accurate line tracking with 3 IR sensors (left, center, right)
 
-Smooth forward and turning motion with PWM-controlled DC motors
+- Accurate line tracking with 3 IR sensors (left, center, right)
 
-Lightweight, stable chassis design
+- Smooth forward and turning motion with PWM-controlled DC motors
 
-Modular code structure for future expansion
+- Lightweight, stable chassis design
 
-Designed for indoor package transportation
+- Modular code structure for future expansion
+
+- Designed for indoor package transportation
 
 ## 🔧 Hardware Components
 
@@ -56,7 +57,7 @@ Self-charging capabilities
 
 [Shaheer Afzal](https://github.com/ShaheerAfzal)
 
-[Ibrahim Abdullah](https://github.com/Ibrahim5570))
+[Ibrahim Abdullah](https://github.com/Ibrahim5570)
 
 Muhammad Asjad
 
