@@ -41,7 +41,7 @@ The robot was tested on custom indoor tracks with both straight and curved paths
 
 ## 📸 Demonstration
 
-![Robot Demo](images/robot demo.jpg)
+![Robot Demo](images/robotDemo.jpg)
 
 ## 💡 Future Work
 Integration of obstacle detection
