@@ -1,10 +1,10 @@
 # Autonomous Line Following Robot
 An Arduino-based autonomous line-following robot developed for indoor package delivery tasks in structured environments such as warehouses, hospitals, and offices. The robot follows a predefined path marked by a black line using infrared sensors and drives a dual DC motor setup via PWM-based motor control.
 
-# 📖 Project Description
+## 📖 Project Description
 This project demonstrates the design, hardware integration, and software implementation of a low-cost indoor line-following robot. Using simple rule-based logic and modular hardware, the robot reliably tracks predefined paths while carrying small payloads across indoor environments. The design is suitable for educational purposes, prototyping, and micro-logistics automation.
 
-# ⚙️ Features
+## ⚙️ Features
 Accurate line tracking with 3 IR sensors (left, center, right)
 
 Smooth forward and turning motion with PWM-controlled DC motors
@@ -15,7 +15,7 @@ Modular code structure for future expansion
 
 Designed for indoor package transportation
 
-# 🔧 Hardware Components
+## 🔧 Hardware Components
 Component	Quantity
 Arduino Nano (ATmega328P)	1
 IR Line Sensors	3
@@ -26,21 +26,21 @@ Chassis & Wheels	1 set
 Battery Pack	1
 Miscellaneous (Wiring, Connectors, Mounts)	-
 
-# 📊 Performance Summary
+## 📊 Performance Summary
 Line following accuracy: ~95% under controlled lighting
 
 Payload capacity: Up to 200g
 
 Average operational speed: ~0.4 m/s
 
-# 🧪 Testing
+## 🧪 Testing
 The robot was tested on custom indoor tracks with both straight and curved paths. Package stability, motor synchronization, and sensor alignment were verified through multiple test cycles. The system demonstrated reliable line detection and smooth navigation in simulated indoor environments.
 
-# 📸 Demonstration
+## 📸 Demonstration
 
 ![Robot Demo](images/robot_demo.jpg)
 
-# 💡 Future Work
+## 💡 Future Work
 Integration of obstacle detection
 
 Wireless remote control (Wi-Fi/Bluetooth)
@@ -49,7 +49,7 @@ RFID-based destination matching
 
 Self-charging capabilities
 
-# 👥 Contributors
+## 👥 Contributors
 [Aleeza Rizwan](https://github.com/its-aleezA)
 
 [Shaheer Afzal](https://github.com/ShaheerAfzal)
@@ -58,10 +58,10 @@ Self-charging capabilities
 
 Muhammad Asjad
 
-# 📄 Project Report
+## 📄 Project Report
 The detailed system design, hardware configuration, control logic, and testing results are available in the full project report:
 
 👉 [Project Report (PDF)](report/Project_Report.pdf)
 
-# 🔖 License
+## 🔖 License
 This project is open-sourced under the MIT License. See the LICENSE file for details.
