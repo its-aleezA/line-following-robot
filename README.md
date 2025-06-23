@@ -66,5 +66,11 @@ The detailed system design, hardware configuration, control logic, and testing r
 
 👉 [Project Report (PDF)](report/Project_Report.pdf)
 
+## 💻 Source Code
+
+The complete Arduino source code for this project is included in this repository:
+
+- [`code/line_following_robot_code.ino`](code/line_following_robot_code.ino)
+
 ## 🔖 License
 This project is open-sourced under the MIT License. See the LICENSE file for details.
