@@ -16,15 +16,17 @@ Modular code structure for future expansion
 Designed for indoor package transportation
 
 ## 🔧 Hardware Components
-Component	Quantity
-Arduino Nano (ATmega328P)	1
-IR Line Sensors	3
-L298N Motor Driver	1
-DC Gear Motors	2
-TT Gear Motors (3-6V)	2
-Chassis & Wheels	1 set
-Battery Pack	1
-Miscellaneous (Wiring, Connectors, Mounts)	-
+
+| Component | Quantity |
+| ----------- | ----------- |
+| Arduino Nano (ATmega328P) | 1 |
+| IR Line Sensors | 3 |
+| L298N Motor Driver | 1 |
+| DC Gear Motors | 2 |
+| TT Gear Motors (3-6V) | 2 |
+| Chassis & Wheels | 1 set |
+| Battery Pack | 1 |
+| Miscellaneous (Wiring, Connectors, Mounts) | - |
 
 ## 📊 Performance Summary
 Line following accuracy: ~95% under controlled lighting
