@@ -73,4 +73,4 @@ The complete Arduino source code for this project is included in this repository
 - [`code/line_following_robot_code.ino`](code/line_following_robot_code.ino)
 
 ## 🔖 License
-This project is open-sourced under the MIT License. See the LICENSE file for details.
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
